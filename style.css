@@ -1,0 +1,101 @@
+
+.header{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20px;
+    padding-bottom: 2px;
+}
+
+.header h2{
+    color:white;
+    position: relative;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    top: 5px;
+}
+
+.hamberger{
+    top:12px;
+    left:30px;
+    color:white;
+    position: absolute;
+}
+
+.about{
+    text-align: right;
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top:15px;
+    left:93%;
+}
+
+.follow{
+    left:5%;
+    color: rgb(255, 255, 255);
+    top:15px;
+    position: absolute;
+}
+
+a:link{
+    color: white;
+}
+
+.bodyimg h3{
+    position:absolute;
+    justify-content: center;
+    top:25%;
+    color: rgb(255, 255, 255);
+    left:3%;
+    right:2%;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.bodyimg p{
+    position:absolute;
+    justify-content: center;
+    top:20%;
+    color: rgb(255, 255, 255);
+    left:36%;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.origami {
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px;
+    margin:25px;
+    width:350px;
+    font-family: cursive;
+    border: solid 3px black;
+    
+}
+
+body{
+    margin: 0px;
+    background-color: #bbcea7;
+    
+}
+
+
+
+.grid img{
+    border: solid 6px #556345;
+    border-radius: 40px;
+    
+}
+
+.grid{
+   
+    display:flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
+
+a:visited{
+    color: rgb(121, 121, 121);
+}
+
